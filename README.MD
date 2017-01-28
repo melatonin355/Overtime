@@ -16,7 +16,7 @@ rails
 
 
 #Version used
-Using the following versions in order to better understand personal legacy project.
+Using the following versions in order to better understand a legacy project.
 
 rails 4.2.5
 ruby 2.2
